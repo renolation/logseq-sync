@@ -1,0 +1,12 @@
+- Bài học theo cấp độ
+- Từ vựng theo chủ đề
+- Luyện phát âm
+- Bài tập ngữ pháp
+- Luyện nghe
+- Luyện nói
+- Luyện viết
+- Flashcard
+- Notification
+- **Chấm điểm và phản hồi bài viết**
+- **Dịch thuật và giải thích từ vựng**
+-
